@@ -1,3 +1,5 @@
+# Practica 6: Banca electrónica con Base de datos #
+
 > Para reforzar la teoría vista hasta el momento haremos unos cambios al proyecto de banca electronica para hacer uso de la API de BD de Java.
 
 ## Objetivos ##
@@ -23,8 +25,8 @@ insert into cuentas values(65447 , '21-12-2019', 10000 , 300,3, "CC");
 
 La estructura de la tabla es la siguiente:
 
-![Estructura tabla](./Imagenes/Capitulo-10-01.png)
-![Interpretacion de los datos](./Imagenes/Capitulo-10-02.png)
+![Estructura tabla](/Imagenes/Capitulo-10-01.png)
+![Interpretacion de los datos](/Imagenes/Capitulo-10-02.png)
 
 Crear 3 clientes en la clase principal: Uno con el número 1, otro con el 2 y el último con el 3.
 
