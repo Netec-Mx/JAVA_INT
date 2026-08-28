@@ -1,3 +1,4 @@
+# Practica 5: Banca electrónica concurrente. # 
 > Para reforzar la teoría vista hasta el momento haremos unos cambios al proyecto de banca electronica para hacer uso de la de Concurrencia de Java.
 
 ## Objetivos ##
@@ -10,7 +11,7 @@
 
 El programa se espera que funcione de la siguiente manera:
 
-![Funcionamiento interno](./Imagenes/Capitulo-08-01.png)
+![Funcionamiento interno](/Imagenes/Capitulo-08-01.png)
 
 Crear un hilo usando ExecutorService para la lectura del archivo de cuentas.txt.
 

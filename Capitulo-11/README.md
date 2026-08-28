@@ -1,3 +1,5 @@
+# Practica 7: Localización Banca electrónica #
+
 > Para reforzar la teoría vista hasta el momento haremos unos cambios al proyecto de banca electronica para hacer uso de los archivos de propiedades para poder convertir nuestros texto a multiples idiomas.
 
 ## Objetivos ##
