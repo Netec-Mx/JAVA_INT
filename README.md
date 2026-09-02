@@ -1,10 +1,11 @@
 <img src="./Imagenes/neteclogo.png" alt="logo" width="300"/>
 
-# Nombre del curso
+# Java Intermedio
+
 
 ## Plataforma de laboratorios
 
-Te damos la bienvenida a la **plataforma de laboratorios** del curso **nombre**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **Java Intermedio**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 ## Lista de laboratorios
 
 # JAVA INT - Laboratorios
