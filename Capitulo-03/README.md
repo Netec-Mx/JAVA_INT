@@ -1,3 +1,4 @@
+# Practica 1: Banca Electronica #
 > Para reforzar la teoría vista hasta el momento durante el curso, realizaremos una serie de ejercicios que buscan que utilicemos los conocimientos aprendidos sobre un proyecto Java.
 
 ## Objetivos ##
@@ -8,7 +9,7 @@
 
 > Nos piden elaborar un proyecto de "sistema bancario" que permita mostrar a grandes rasgos el funcionamiento de un banco para ellos nos piden recrear el diagrama de clases siguiente.
 
-![Diagrama de clases](./Imagenes/Capitulo-03-01.png)
+![Diagrama de clases](/Imagenes/Capitulo-03-01.png)
 
 Implementar el diagrama en un proyecto de Java llamado BancaElectronica.
 

@@ -1,3 +1,4 @@
+# Practica 8: Banca Electrónica Modular #
 > Para reforzar la teoría vista hasta el momento haremos un nuevo proyecto llamado Banca electronica modular por lo que iremos copiando el codigo que ya tenemos desarrollado de nuestro proyecto original a la nueva forma de trabajar con modulos.
 
 ## Objetivos ##
@@ -10,7 +11,7 @@
 
 Generar un nuevo proyecto y especificar que será un proyecto modular, cambiar la aplicación de Java que hemos desarrollado a una aplicación modular conforme lo indicado por el siguiente diagrama.
 
-![Diagrama Java Modular](./Imagenes/Capitulo-12-01.png)
+![Diagrama Java Modular](/Imagenes/Capitulo-12-01.png)
 
 Validar que todas las clases se puedan comunicar entre si a pesar de que se encuentren en diferentes módulos.
 

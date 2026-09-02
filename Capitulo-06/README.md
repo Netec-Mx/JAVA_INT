@@ -1,3 +1,4 @@
+# Practica 3: Banca electrónica lectura de archivos. #
 > Para reforzar la teoría vista hasta el momento haremos unos cambios al proyecto de banca electronica para leer información de ciertos archivos.
 
 ## Objetivos ##
@@ -8,7 +9,7 @@
 
 > Con base al siguiente archivo, debemos modificar el programa para que lea los datos de un archivo.
 
-![Archivo Ejemplo](./Imagenes/Capitulo-06-01.png)
+![Archivo Ejemplo](/Imagenes/Capitulo-06-01.png)
 
 Descargar el archivo del siguiente enlace:
 
